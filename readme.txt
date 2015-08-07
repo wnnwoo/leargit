@@ -5,4 +5,4 @@ Git tracks changes of the file.
 My stupid boss still prefers SVN
 
 2015.8.7
-Git tracks changes
+Git tracks changes of file
